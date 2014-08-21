@@ -4,7 +4,7 @@ Since many tutorials about translating bbPress are out of date, people're gettin
 
 
 ## Installation
-Put .mo and .po files in /wp-content/languages/plugins. bbPress would automatically pick the right one based on locale setting in wp-config.php.
+Put .mo and .po files in ``/wp-content/languages/plugins`` and bbPress would automatically pick the right one based on locale setting in wp-config.php.
 
 ## Contribute
 If you want to improve this project, follow these instructions:
